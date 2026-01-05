@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Frontend Developer** who cares about clean structure, sharp interfaces, and code that doesn’t turn into a maintenance nightmare.  
+I'm a **Frontend Developer**  having knowlegde of clean structure, sharp interfaces, and code that doesn’t turn into a maintenance nightmare.  
 I focus on **building fast, responsive, and practical UI** — not copy–paste tutorial junk.
 
 - 🧠 Strengthening advanced JavaScript + React patterns  

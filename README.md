@@ -21,7 +21,7 @@ I focus on **building fast, responsive, and practical UI** — not copy–paste 
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,github,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,git,tailwind" />
 </p>
 
 ---

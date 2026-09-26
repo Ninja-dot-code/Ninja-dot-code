@@ -1,134 +1,437 @@
-<h1 align="center">Hey, I'm Ninja Hashmi</h1>
-<p align="center"><strong>Frontend Developer</strong> · HTML · CSS · JavaScript · React</p>
-<p align="center">Building clean, responsive interfaces — no copy-paste tutorials, just real practice and real code.</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Ninja%20Hashmi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%7C%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JavaScript%20%E2%80%A2%20React&descSize=18&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Ninja+Hashmi;🚀+Frontend+Developer;⚛️+Building+Clean+%26+Responsive+UIs;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+React;🌍+Open+to+Opportunities"/>
+
+<br/>
 
 <p align="center">
-  <a href="https://ninjadeveloperweb.netlify.app/">Portfolio</a> ·
-  <a href="https://github.com/Ninja-dot-code">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/m-azam-ninja-444240437/">LinkedIn</a> ·
-  <a href="mailto:nazeemakbar018@gmail.com">Email</a>
+  <a href="https://ninjadeveloperweb.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Ninja-dot-code&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Ninja-dot-code?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Ninja-dot-code?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## About Me
+# 💫 Welcome to My GitHub
 
-```text
+I'm a passionate **Frontend Developer** focused on building clean, responsive, and practical user interfaces. I enjoy turning ideas into fast, well-structured web experiences using modern frontend technologies.
+
+From crafting pixel-perfect layouts with HTML & CSS to adding interactivity with JavaScript and exploring React patterns, I focus on code that is readable, maintainable, and free of unnecessary complexity.
+
+🎯 **Current Mission**
+
+> Strengthen JavaScript & React skills, ship polished frontend projects, and grow into a professional frontend developer while studying in college.
+
+---
+
+# 💫 About Me
+
+<div align="center">
+
+> *"I don't just write code — I build clean interfaces that work across devices."*
+
+</div>
+
+<br>
+
+```bash
 $ whoami
 
-Name      :: Ninja Hashmi
-Role      :: Frontend Developer
-Location  :: Karachi, Pakistan
-Status    :: Currently in college · Open to opportunities
-Focus     :: Clean UI, responsive layouts, practical JavaScript & React
+👤 Name        :: Ninja Hashmi
+💼 Role        :: Frontend Developer
+📍 Location    :: Karachi, Pakistan
+🎓 Education   :: Currently in College
+🌍 Status      :: Open to Opportunities
 
 $ current_focus
 
-→ Strengthening JavaScript fundamentals and React patterns
-→ Building modular, readable frontend projects
-→ Improving layout skills with Flexbox, Grid & responsive design
-→ Shipping small interactive apps and landing pages
+→ Strengthening advanced JavaScript + React patterns
+→ Building modular, reusable UI components
+→ Mastering responsive design with Flexbox & Grid
+→ Creating practical, interactive frontend projects
+→ Writing clean, readable, and maintainable code
+
+$ tech_specialization
+
+Frontend  :: HTML5 • CSS3 • JavaScript (ES6+) • React
+Styling   :: Flexbox • CSS Grid • Tailwind CSS • Responsive Design
+Tools     :: Git • GitHub • VS Code • Chrome DevTools
+Hosting   :: Netlify • Vercel
+
+$ career_goal
+
+Become a skilled Frontend Developer who builds
+fast, accessible, and maintainable user interfaces.
 ```
 
-I care about structure first, then styling. Code should stay readable and maintainable — not a maintenance nightmare later.
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Technologies & Tools I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,netlify,vercel&theme=dark&perline=10" />
+
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-| Category     | Technologies                                      |
-|--------------|---------------------------------------------------|
-| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · React          |
-| **Styling**  | Flexbox · CSS Grid · Responsive design · Tailwind |
-| **Tools**    | Git · GitHub · VS Code · Chrome DevTools          |
-| **Hosting**  | Netlify · Vercel                                  |
+## 🛠️ Technology Overview
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,tailwind,vscode" alt="Tech icons" />
-</p>
+| 🎨 Frontend | 🎨 Styling | 🛠️ Tools | 🚀 Deployment |
+|-------------|------------|----------|---------------|
+| HTML5 | CSS3 | Git | Netlify |
+| JavaScript (ES6+) | Flexbox | GitHub | Vercel |
+| React | CSS Grid | VS Code | GitHub Pages |
+| DOM Manipulation | Tailwind CSS | Chrome DevTools |  |
+| Responsive Design | Media Queries |  |  |
 
----
-
-## Featured Projects
-
-Real projects built to practice frontend skills — each one has a clear goal.
-
-### Quiz App
-Interactive quiz with progress bar, score tracking, and result messages.
-
-- **Highlights:** Start / quiz / result screens · Answer feedback · Restart flow
-- **Stack:** HTML · CSS · JavaScript
-- **Links:** [Live Demo](https://quiz-app-tawny-phi.vercel.app/) · [Repository](https://github.com/Ninja-dot-code/Quiz-app-)
-
-### Personal Portfolio
-My own developer portfolio site showcasing projects and approach.
-
-- **Highlights:** Clean sections · Project cards · Skills overview
-- **Stack:** HTML · CSS · JavaScript
-- **Links:** [Live Demo](https://ninjadeveloperweb.netlify.app/) · [Repository](https://github.com/Ninja-dot-code/My-personal-portfolio-Website-using-HTML-CSS-and-JS)
-
-### North Tourist Website
-Simple tourism landing page focused on layout and visual presentation.
-
-- **Highlights:** Responsive landing · Asset organization · Style guide notes
-- **Stack:** HTML · CSS · JavaScript
-- **Links:** [Live Demo](https://ninjacodeweb.netlify.app/) · [Repository](https://github.com/Ninja-dot-code/North-tourist-website)
-
-### Hospital Website (Declan)
-Multi-section practice site for a hospital/clinic style layout.
-
-- **Highlights:** Structured pages · CSS layout practice · Basic interactivity
-- **Stack:** HTML · CSS · JavaScript
-- **Links:** [Live Demo](https://ninjahospitalweb.netlify.app/) · [Repository](https://github.com/Ninja-dot-code/Declan-simple-HTML-CSS-AND-JS-practice-project-)
-
-### Camping Site Website
-UI practice project using modern CSS techniques.
-
-- **Highlights:** CSS custom properties · Flexbox & Grid · Fully responsive
-- **Stack:** HTML · CSS · JavaScript · Font Awesome
-- **Links:** [Repository](https://github.com/Ninja-dot-code/Camping-Site-Webiste)
-
-### Quote Generator (with Speech)
-Random quote generator with text-to-speech support.
-
-- **Highlights:** Quote display · Speech synthesis · Simple UI
-- **Stack:** HTML · CSS · JavaScript
-- **Links:** [Live Demo](https://generatequot.netlify.app/) · [Repository](https://github.com/Ninja-dot-code/Quot-generator-with-html-css-and-js-with-speech.)
+</div>
 
 ---
 
-## Development Journey
+# 💼 Experience & Learning Journey
 
-I'm building frontend skills through hands-on projects while studying in college. My focus is practical UI work:
-
-- Responsive landing pages and multi-section sites
-- Small interactive apps (quiz, quote generators, games)
-- Clean HTML structure and modular CSS
-- Moving into React components and better JavaScript patterns
-
-Every project is a chance to practice, break things, refactor, and improve.
+> *"Every project is an opportunity to learn, improve, and build interfaces that actually work."*
 
 ---
 
-## GitHub Stats
+## 💻 Project-Based Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ninja-dot-code&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-dot-code&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
-</p>
+### 🚀 Frontend Developer
+**Self-Directed Projects** • *2024 – Present*
 
----
+As a frontend-focused developer, I've been building real websites and interactive apps to strengthen my skills in HTML, CSS, JavaScript, and React.
 
-## Connect
+### What I've Worked On
 
-I'm open to freelance work, collaborations, and conversations about frontend development.
-
-- **Portfolio:** [ninjadeveloperweb.netlify.app](https://ninjadeveloperweb.netlify.app/)
-- **LinkedIn:** [m-azam-ninja](https://www.linkedin.com/in/m-azam-ninja-444240437/)
-- **Instagram:** [ninja.hashmi](https://www.instagram.com/ninja.hashmi/)
-- **Email:** [nazeemakbar018@gmail.com](mailto:nazeemakbar018@gmail.com)
-- **GitHub:** [Ninja-dot-code](https://github.com/Ninja-dot-code)
+- ⚛️ Developed responsive websites and landing pages using **HTML5**, **CSS3**, and **JavaScript**
+- 🎯 Built interactive projects (Quiz App, Quote Generators, Games) with clean UI logic
+- 📱 Created fully responsive layouts using **Flexbox**, **CSS Grid**, and media queries
+- 🧩 Practiced modular structure, reusable components, and readable code
+- ☁️ Deployed projects on **Netlify** and **Vercel**
+- 🛠️ Used **Git** and **GitHub** for version control
+- 🔥 Currently deepening **React** patterns and component architecture
 
 ---
 
-<p align="center">Thanks for stopping by. If something here is useful, feel free to star a repo or reach out.</p>
+# 🎓 Education
+
+### 🎓 College Student — Currently Pursuing My Degree
+
+I'm currently pursuing my college degree while actively strengthening my frontend development skills through hands-on projects, continuous practice, and self-study. Alongside my academics, I focus on building real-world, responsive web interfaces.
+
+## 🎯 Beyond the Classroom
+
+In addition to my coursework, I actively:
+
+- 🚀 Build responsive websites and interactive frontend apps
+- ⚛️ Practice React and modern JavaScript patterns
+- 🎨 Improve layout skills with Flexbox, Grid, and clean CSS
+- 📖 Continuously learn modern tools, frameworks, and best practices
+
+> **"I believe the best way to learn is by building real projects and improving them over time."**
+
+---
+
+# 🎯 Career Objective
+
+I'm looking for opportunities where I can:
+
+- 💼 Contribute to real frontend projects
+- 🤝 Collaborate with experienced developers
+- 🚀 Build clean, responsive, and accessible interfaces
+- 📚 Learn modern frontend engineering practices
+- 🌍 Work on meaningful web applications
+
+---
+
+# 📌 What I'm Looking For
+
+<div align="center">
+
+| 💼 Opportunity | ✅ Status |
+|---------------|----------|
+| Remote Internship | ✔️ Open |
+| Junior Frontend Role | ✔️ Open |
+| Freelance Projects | ✔️ Available |
+| Open Source Collaboration | ✔️ Interested |
+| Frontend Mentorship | ✔️ Looking |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+> *"Every project represents a step forward in my journey as a Frontend Developer — focused on clean structure, responsive design, and practical interactivity."*
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎯 Quiz App
+
+### 📖 Overview
+
+An interactive quiz application with progress tracking, score calculation, answer feedback, and a results screen. Built to practice JavaScript logic and clean UI flow.
+
+### ✨ Highlights
+
+- 🎮 Start / Quiz / Result screens
+- 📊 Progress bar & live score
+- ✅ Correct / incorrect feedback
+- 🔄 Restart functionality
+- 📱 Responsive design
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 **Live Demo:** [Visit Website](https://quiz-app-tawny-phi.vercel.app/)
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/Quiz-app-)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Personal Portfolio
+
+### 📖 Overview
+
+My personal developer portfolio website showcasing projects, skills, and approach. Built with a clean structure and focus on readability.
+
+### ✨ Highlights
+
+- 🗂️ Project showcase section
+- 📊 Skills overview
+- 📱 Fully responsive layout
+- 🎨 Clean visual hierarchy
+- ⚡ Fast loading
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 **Live Demo:** [Visit Website](https://ninjadeveloperweb.netlify.app/)
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/My-personal-portfolio-Website-using-HTML-CSS-and-JS)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏔️ North Tourist Website
+
+### 📖 Overview
+
+A tourism landing page focused on visual presentation and responsive layout for showcasing destinations.
+
+### ✨ Highlights
+
+- 🗺️ Destination-focused design
+- 📱 Responsive across devices
+- 🎨 Structured CSS organization
+- 🖼️ Image & asset handling
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 **Live Demo:** [Visit Website](https://ninjacodeweb.netlify.app/)
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/North-tourist-website)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏥 Hospital Website
+
+### 📖 Overview
+
+A multi-section practice website designed for a hospital/clinic style layout with clean structure and basic interactivity.
+
+### ✨ Highlights
+
+- 📄 Multi-section layout
+- 📱 Responsive design
+- 🎨 CSS practice focus
+- ⚡ Basic JavaScript interactivity
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 **Live Demo:** [Visit Website](https://ninjahospitalweb.netlify.app/)
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/Declan-simple-HTML-CSS-AND-JS-practice-project-)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+## ⛺ Camping Site Website
+
+### 📖 Overview
+
+A UI-focused camping site website built to practice modern CSS techniques including custom properties, Flexbox, and Grid.
+
+### ✨ Highlights
+
+- 🎨 CSS custom properties
+- 📐 Flexbox & CSS Grid
+- 📱 Fully responsive
+- 🖼️ Rich visual assets
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `Font Awesome`
+
+### 🔗 Links
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/Camping-Site-Webiste)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💬 Quote Generator
+
+### 📖 Overview
+
+A random quote generator with text-to-speech support, built as an early JavaScript practice project.
+
+### ✨ Highlights
+
+- 🎲 Random quote display
+- 🔊 Speech synthesis
+- 🎨 Simple clean UI
+- 📱 Responsive
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 **Live Demo:** [Visit Website](https://generatequot.netlify.app/)
+
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/Quot-generator-with-html-css-and-js-with-speech.)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+> *"Consistency beats intensity. Every commit is a step toward becoming a better developer."*
+
+<br>
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Ninja-dot-code&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja-dot-code&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+> **Note:** These visuals represent my current learning focus and development journey, not objective skill measurements.
+
+---
+
+# 🤝 Let's Connect
+
+> *"I'm always excited to collaborate on meaningful projects, improve my skills, and connect with developers around the world."*
+
+<br>
+
+<div align="center">
+
+<a href="https://ninjadeveloperweb.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="mailto:nazeemakbar018@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m-azam-ninja-444240437/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ninja-dot-code">
+<img src="https://img.shields.io/badge/💻%20GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ninja.hashmi/">
+<img src="https://img.shields.io/badge/📸%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thank you for visiting my GitHub!
+
+If you enjoy my work, consider ⭐ starring a repository or connecting with me.
+
+I’m always open to learning, collaborating, and building better interfaces.
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=150&section=footer"/>
+
+</div>
+
+### **Let's build something amazing together. 🚀**
+
+</div>

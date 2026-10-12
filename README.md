@@ -207,9 +207,9 @@ An interactive quiz application with progress tracking, score calculation, answe
 
 ### 🔗 Links
 
-🌐 **Live Demo:** [Visit Website](https://quiz-app-tawny-phi.vercel.app/)
+🌐 **Live Demo:** [Visit Website](ninjacodeweb.netlify.app/)
 
-📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/Quiz-app-)
+📂 **Repository:** [View Repository](https://github.com/Ninja-dot-code/North-tourist-website)
 
 </td>
 
